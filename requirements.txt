@@ -1,0 +1,7 @@
+Requirements for my program:
+
+- The user must select each option provided if they want a complete Star Wars character.
+
+- Exiting the program doesn't save any of their work.
+
+- They should call upon the program's initial function "star_wars" to get the program rolling.
